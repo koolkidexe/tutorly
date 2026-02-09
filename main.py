@@ -8,6 +8,6 @@
     </style>
   </head>
   <body>
-    <iframe src="https://https://tutorfyapp.lovable.app/"></iframe>
+    <iframe src="https://tutorfyapp.lovable.app/"></iframe>
   </body>
 </html>
